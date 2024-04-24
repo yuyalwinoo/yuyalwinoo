@@ -1,4 +1,7 @@
-### Hi there 👋
+👩‍💻 Web Developer
+
+:desktop_computer: Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,prisma,php,wasm)](https://skillicons.dev)
 
 <!--
 **yuyalwinoo/yuyalwinoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
