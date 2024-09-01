@@ -1,13 +1,5 @@
 👩‍💻 Web Developer
 
-:desktop_computer: Tech Stack 
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,prisma,php,git" width='200'/>
-  </a>
-</p>
-
 
 
 
